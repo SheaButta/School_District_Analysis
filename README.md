@@ -63,35 +63,30 @@ The below bullets will describe the school analysis results.
 		
 		Pre grades replacement: [Replacing Ninth graders pre grades replacement](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ReplacingNinthGraders_PreDishonestDiscovery.PNG)
 
-	Post grades replacement: [Replacing Ninth graders data post grades replacement](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ReplacingNinthGraders_PostDishonestDiscovery.PNG)
+		Post grades replacement: [Replacing Ninth graders data post grades replacement](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ReplacingNinthGraders_PostDishonestDiscovery.PNG)
 
 		- Scores by school spending
+			- The below images will illustrate the scores by school spending per student.
 
-		- The below images illustrate the affect of replacing the ninth graders' math and reading scores for Thomas High School.
+		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PreDishonestDiscovery.PNG)
 
-		Pre discovery: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PreDishonestDiscovery.PNG)
-
-		Post discovery: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PostDishonestDiscovery.PNG)
+		Post grades replacement: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PostDishonestDiscovery.PNGG)
 
 
 		- Scores by school size
+			- The below images will illustrate the scores by school size.
 
-		- The below images illustrate the affect of replacing the ninth graders' math and reading scores for Thomas High School.
+		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolsize_PreDishonestDiscovery.PNG)
 
-		Pre discovery: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PreDishonestDiscovery.PNG)
-
-		Post discovery: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PostDishonestDiscovery.PNG)
+		Post grades replacement: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolsize_PostDishonestDiscovery.PNG
 
 
 		- Scores by school type
+			- The below images will illustrate the scores by school type.
 
-		- The below images illustrate the affect of replacing the ninth graders' math and reading scores for Thomas High School.
+		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolType_PreDishonestDiscovery.PNG)
 
-		Pre discovery: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PreDishonestDiscovery.PNG)
-
-		Post discovery: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PostDishonestDiscovery.PNG)
-
-
+		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolType_PostDishonestDiscovery.PNG)
 
 ## Summary
 
@@ -113,7 +108,4 @@ The specific changes that were revealed are as follows;
 	5. The ninth graders of Thomas High School had a reading score by grade of 83.7 prior to the replace.  There is no reading 
 	   score by grade for the ninth graders of Thomas High School.
 
-
-
-	- 
 
