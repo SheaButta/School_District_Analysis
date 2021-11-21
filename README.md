@@ -34,10 +34,8 @@ Student Data source: [Raw Students Data](https://github.com/SheaButta/School_Dis
 The below bullets will describe the school analysis results.
 
   - How is the district summary affected?
-
-		- The district summary does not appear to have been impacted much based on the results captured below.
-		
-		Pre grades replacement: ![District Summary Pre Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/DistrictSummary_PreDishonestDiscovery.PNG)
+  	- The district summary does not appear to have been impacted much based on the results captured below.
+	Pre grades replacement: ![District Summary Pre Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/DistrictSummary_PreDishonestDiscovery.PNG)
 
 		Post grades replacement: ![District Summary Post Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/DistrictSummary_PostDishonestDiscovery.PNG)
 
