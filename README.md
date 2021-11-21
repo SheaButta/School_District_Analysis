@@ -23,9 +23,9 @@ School Board Required Metrics:
 - The scores by school spending per student, by school size, and by school type
 
 ## Resources
-School Data source: [School Data](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/school_complete.csv)
+School Data source: [School Data](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/schools_complete.csv)
 
-Student Data source: [Raw Students Data](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/students_complete.csv)
+Student Data source: [Raw Students Data](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/students_complete.csv)
 
 
 
