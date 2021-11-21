@@ -69,9 +69,9 @@ The below bullets will describe the school analysis results.
 	- Scores by school spending
 		- The below images will illustrate the scores by school spending per student.
 
-		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PreDishonestDiscovery.PNG)
+		Pre grades replacement: [Replacing Ninth graders data pre grades replacement](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PreDishonestDiscovery.PNG)
 
-		Post grades replacement: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PostDishonestDiscovery.PNG)
+		Post grades replacement: [Replacing Ninth graders data post grades replacement](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PostDishonestDiscovery.PNG)
 
 
 	- Scores by school size
