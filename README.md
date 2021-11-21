@@ -45,17 +45,16 @@ The below bullets will describe the school analysis results.
 	  in reading and math were over 90%.  Once the Thomas High School 9th grade data was omitted, their passing percentages for math, reading
 	  and overall passing percentages were below 70% based on the below results.
 
-	Pre discovery: [School Summary Pre grades replacement](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/SchoolSummary_PreDishonestDiscovery.PNG)
+	Pre discovery: ![School Summary Pre grades replacement](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/SchoolSummary_PreDishonestDiscovery.PNG)
 
-		Post discovery: [School Summary Post grades replacement](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/SchoolSummary_PostDishonestDiscovery.PNG)
+	Post discovery: ![School Summary Post grades replacement](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/SchoolSummary_PostDishonestDiscovery.PNG)
 
-	- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+	- The below images illustrate the affect of replacing the ninth graders' math and reading scores for Thomas High School.
 
-		- The below images illustrate the affect of replacing the ninth graders' math and reading scores for Thomas High School.
+	Pre discovery: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PreDishonestDiscovery.PNG)
 
-		Pre discovery: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PreDishonestDiscovery.PNG)
-
-		Post discovery: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PostDishonestDiscovery.PNG)
+	Post discovery: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_Distric_Analysis/blob/main/Resources/ReplacingNinthGraders_PostDishonestDiscovery.PNG)
 
 	- How does replacing the ninth-grade scores affect the following:
 
