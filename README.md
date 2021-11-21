@@ -70,7 +70,7 @@ The below bullets will describe the school analysis results.
 
 		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PreDishonestDiscovery.PNG)
 
-		Post grades replacement: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PostDishonestDiscovery.PNGG)
+		Post grades replacement: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolPerStudent_PostDishonestDiscovery.PNG)
 
 
 	- Scores by school size
