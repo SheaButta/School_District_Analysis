@@ -82,7 +82,8 @@ The below bullets will describe the school analysis results.
 
 
 	- Scores by school type
-		- The below images will illustrate the scores by school type.
+		- The below images will illustrate the how the replacement of the ninth grade data changed the math, reading and
+		  overall percentages.
 
 		Pre grades replacement: ![Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolType_PreDishonestDiscovery.PNG)
 
