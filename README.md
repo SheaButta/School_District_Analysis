@@ -65,6 +65,7 @@ The below bullets will describe the school analysis results.
 
 		Post grades replacement: [Replacing Ninth graders data post grades replacement](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ReplacingNinthGraders_PostDishonestDiscovery.PNG)
 
+
 	- Scores by school spending
 		- The below images will illustrate the scores by school spending per student.
 
@@ -74,8 +75,9 @@ The below bullets will describe the school analysis results.
 
 
 	- Scores by school size
-		- The below images will illustrate the scores by school size.
-
+		- The below images will illustrate the how the replacement of the ninth grade data changed the math, reading and
+		  overall percentages for scores by school size.
+		  
 		Pre grades replacement: ![Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolsize_PreDishonestDiscovery.PNG)
 
 		Post grades replacement: ![Replacing Ninth graders data Post Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolsize_PostDishonestDiscovery.PNG)
@@ -83,7 +85,7 @@ The below bullets will describe the school analysis results.
 
 	- Scores by school type
 		- The below images will illustrate the how the replacement of the ninth grade data changed the math, reading and
-		  overall percentages.
+		  overall percentages for scores by school type.
 
 		Pre grades replacement: ![Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolType_PreDishonestDiscovery.PNG)
 
