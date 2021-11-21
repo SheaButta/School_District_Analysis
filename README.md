@@ -76,17 +76,17 @@ The below bullets will describe the school analysis results.
 	- Scores by school size
 		- The below images will illustrate the scores by school size.
 
-		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolsize_PreDishonestDiscovery.PNG)
+		Pre grades replacement: ![Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolsize_PreDishonestDiscovery.PNG)
 
-		Post grades replacement: [Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolsize_PostDishonestDiscovery.PNG
+		Post grades replacement: ![Replacing Ninth graders data Post Dishonest Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolsize_PostDishonestDiscovery.PNG
 
 
 	- Scores by school type
 		- The below images will illustrate the scores by school type.
 
-		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolType_PreDishonestDiscovery.PNG)
+		Pre grades replacement: ![Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolType_PreDishonestDiscovery.PNG)
 
-		Pre grades replacement: [Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolType_PostDishonestDiscovery.PNG)
+		Pre grades replacement: ![Replacing Ninth graders data Pre Discovery](https://github.com/SheaButta/School_District_Analysis/blob/main/Resources/ScoresbySchoolType_PostDishonestDiscovery.PNG)
 
 ## Summary
 
